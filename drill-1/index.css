@@ -1,0 +1,28 @@
+* {
+    background-color: rgb(173, 168, 168);
+}
+
+header > div {
+    box-sizing: border-box;
+    height: 170px;
+    width:auto;
+    background-color: rgb(78, 78, 78);
+}
+
+#mainbody {
+    box-sizing: border-box;
+    width: 690px;
+    height: 765px;
+    background-color: white;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#footer {
+    box-sizing: border-box;
+    width: 690px;
+    height: 75px;
+    background-color: rgb(78, 78, 78);
+    margin-left: auto;
+    margin-right: auto;
+}
